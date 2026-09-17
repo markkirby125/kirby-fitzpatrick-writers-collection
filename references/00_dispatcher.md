@@ -1,5 +1,9 @@
 # William Fitzpatrick Cognitive Writing Suite — Master Router
 
+**Framework Author**: William Fitzpatrick (*Writer Science*)  
+**Source Lecture**: [The Most Powerful Writing Frameworks to Write CLEARLY](https://www.youtube.com/watch?v=cayUBPHB1HQ)  
+**Parent Collection**: [Parent Container](../../SKILL.md) | [Global Help](../../../kirby-help/SKILL.md)  
+
 Master classification index and router for the 48 atomic AI coding skills adapted from William Fitzpatrick's empirical writing research (*Writer Science*).
 
 ---
@@ -13,23 +17,23 @@ When tasked with generating documentation, pull request summaries, code explanat
 | Sentence-level clarity, eliminating filler & wordiness | [Category 1: Sentence Mechanics](#category-1-sentence-mechanics--syntactic-compression) | Locomotive syntax, active verbs, preposition compacting |
 | Paragraph transitions, logical cohesion & flow | [Category 2: Paragraph Cohesion](#category-2-paragraph-cohesion--information-flow) | Topic vs. Comment, relay linking, cathedral taxonomy |
 | Architectural RFCs, proposals & PR descriptions | [Category 3: Macro Architecture](#category-3-macro-architecture-proposals--pr-structuring) | 3-part proposal engine, cold-reader audit, skim test |
-| Explaining code, ASTs, algorithms & reviewing PRs | [Category 4: Code Walkthroughs](#category-4-code-walkthroughs-explanation--review-etiquette) | Uneven U, watchmaker mechanics, Letter of Response |
-| Preventing hallucinations, RAG drift & fake fluency | [Category 5: System Grounding](#category-5-system-grounding-ai-boundaries--architecture-guardrails) | Read-only vault, substance-first refactor, JIT context |
-| Eliminating conversational noise, hedging & jargon | [Category 6: Cognitive Load & Tone](#category-6-cognitive-load-tone--reader-alignment) | Decoupled delivery, zero meta-discourse, calibrated tone |
+| Code walkthroughs, PR reviews & onboarding | [Category 4: Code Walkthroughs](#category-4-code-walkthroughs-explanation--review-etiquette) | Uneven U, watchmaker explainer, Bilbo principle |
+| State grounding, hallucination boundaries & invariants | [Category 5: System Grounding](#category-5-system-grounding-ai-boundaries--architecture-guardrails) | Read-only vaults, substance-first refactoring, 3D grounding |
+| Reader cognitive load, tone & multi-stakeholder comms | [Category 6: Cognitive Load & Tone](#category-6-cognitive-load-tone--reader-alignment) | Decoupled reader delivery, zero meta-discourse, tone |
 
 ---
 
-## Category 1: Sentence Mechanics & Syntactic Compression
+## Category 1: Sentence Mechanics & Syntactic Compression (✓ Active — Batch 1)
 *Target: Micro-level syntactic discipline.*
-* `kirby-fitzpatrick-locomotive-syntax`: Subject and verb in first 5–6 words.
-* `kirby-fitzpatrick-runway-syntax-engine`: Runway principle (<5 word subject); hoist nominalizations.
-* `kirby-fitzpatrick-lexical-anti-bloat-filter`: Strip filler (`actually`, `basically`, `in order to`).
-* `kirby-fitzpatrick-empty-verb-extractor`: Replace weak occurrence verbs with transitive verbs.
-* `kirby-fitzpatrick-participial-causal-chaining`: Subordinating participial causal connections.
-* `kirby-fitzpatrick-prepositional-suitcase-compactor`: Compress trailing preposition chains.
-* `kirby-fitzpatrick-function-word-dna-compressor`: Maximize content-to-function word ratio.
-* `kirby-fitzpatrick-cargo-weighted-syntax`: Scale sentence length strictly by conceptual weight.
-* `kirby-fitzpatrick-affirmative-logic-formulator`: Eliminate cognitive arithmetic and double negatives.
+* `kirby-fitzpatrick-locomotive-syntax`: Subject and verb in first 5–6 words. *(✓ Active)*
+* `kirby-fitzpatrick-runway-syntax-engine`: Runway principle (<5 word subject); hoist nominalizations. *(✓ Active)*
+* `kirby-fitzpatrick-lexical-anti-bloat-filter`: Strip filler (`actually`, `basically`, `in order to`). *(✓ Active)*
+* `kirby-fitzpatrick-empty-verb-extractor`: Replace weak occurrence verbs with transitive verbs. *(✓ Active)*
+* `kirby-fitzpatrick-participial-causal-chaining`: Subordinating participial causal connections. *(✓ Active)*
+* `kirby-fitzpatrick-prepositional-suitcase-compactor`: Compress trailing preposition chains. *(✓ Active)*
+* `kirby-fitzpatrick-function-word-dna-compressor`: Maximize content-to-function word ratio. *(✓ Active)*
+* `kirby-fitzpatrick-cargo-weighted-syntax`: Scale sentence length strictly by conceptual weight. *(✓ Active)*
+* `kirby-fitzpatrick-affirmative-logic-formulator`: Eliminate cognitive arithmetic and double negatives. *(✓ Active)*
 
 ---
 
