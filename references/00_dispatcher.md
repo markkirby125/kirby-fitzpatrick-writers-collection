@@ -59,15 +59,15 @@ When tasked with generating documentation, pull request summaries, code explanat
 
 ---
 
-## Category 4: Code Walkthroughs, Explanation & Review Etiquette
+## Category 4: Code Walkthroughs, Explanation & Review Etiquette (✓ Active — Batch 4)
 *Target: High-trust collaborative code explanation and reviews.*
-* `kirby-fitzpatrick-uneven-u-explainer`: Eric Hayot's Uneven U framework (Concept → Claim → Mechanism → Code → Meaning).
-* `kirby-fitzpatrick-analytical-watchmaker-explainer`: Explain interacting gears, not sequential line numbers.
-* `kirby-fitzpatrick-bilbo-simple-to-complex`: Simple intuitive anchor before expanding complexity.
-* `kirby-fitzpatrick-letter-of-response-reviewer`: Articulate author intent → validate strengths → actionable diffs.
-* `kirby-fitzpatrick-silent-author-test`: Verify docs stand on their own without author present.
-* `kirby-fitzpatrick-anti-author-splain-commenter`: Strip self-justifying fluff and subjective `-ly` adverbs.
-* `kirby-fitzpatrick-joint-attention-pairing`: Anchor in shared verifiable artifacts (exact line numbers, stack traces).
+* `kirby-fitzpatrick-uneven-u-explainer`: Eric Hayot's Uneven U framework (Concept → Claim → Mechanism → Code → Meaning). *(✓ Active)*
+* `kirby-fitzpatrick-analytical-watchmaker-explainer`: Explain interacting gears, not sequential line numbers. *(✓ Active)*
+* `kirby-fitzpatrick-bilbo-simple-to-complex`: Simple intuitive anchor before expanding complexity. *(✓ Active)*
+* `kirby-fitzpatrick-letter-of-response-reviewer`: Articulate author intent → validate strengths → actionable diffs. *(✓ Active)*
+* `kirby-fitzpatrick-silent-author-test`: Verify docs stand on their own without author present. *(✓ Active)*
+* `kirby-fitzpatrick-anti-author-splain-commenter`: Strip self-justifying fluff and subjective `-ly` adverbs. *(✓ Active)*
+* `kirby-fitzpatrick-joint-attention-pairing`: Anchor in shared verifiable artifacts (exact line numbers, stack traces). *(✓ Active)*
 
 ---
 
