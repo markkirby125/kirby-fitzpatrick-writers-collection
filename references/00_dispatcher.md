@@ -71,17 +71,17 @@ When tasked with generating documentation, pull request summaries, code explanat
 
 ---
 
-## Category 5: System Grounding, AI Boundaries & Architecture Guardrails
+## Category 5: System Grounding, AI Boundaries & Architecture Guardrails (✓ Active — Batch 5)
 *Target: RAG grounding, operational verification, and anti-hallucination discipline.*
-* `kirby-fitzpatrick-read-only-vault-isolation`: Strict read-only boundaries on ground truth.
-* `kirby-fitzpatrick-substance-first-refactoring`: Forbid cosmetic cleanup on broken/untested code.
-* `kirby-fitzpatrick-3d-architectural-grounding`: Explicit mapping of state lifecycles and concurrency.
-* `kirby-fitzpatrick-codebase-navigation-router`: Indexing and contract navigation before code generation.
-* `kirby-fitzpatrick-semantic-gap-hunter`: Audit for unhandled error branches and config drift.
-* `kirby-fitzpatrick-active-dialogue-dependency-evaluator`: Dialogic assessment of new package dependencies.
-* `kirby-fitzpatrick-fleeting-bug-ingestion`: Zero-friction capture under `BUG-YYYYMMDD-HHMMSS`.
-* `kirby-fitzpatrick-just-in-time-context-optimizer`: Pull narrow surgical snippets only when blocked.
-* `kirby-fitzpatrick-anti-coaster-lens-filter`: Reject speculative abstractions; implement idiomatic paths.
+* `kirby-fitzpatrick-read-only-vault-isolation`: Strict read-only boundaries on ground truth. *(✓ Active)*
+* `kirby-fitzpatrick-substance-first-refactoring`: Forbid cosmetic cleanup on broken/untested code. *(✓ Active)*
+* `kirby-fitzpatrick-3d-architectural-grounding`: Explicit mapping of state lifecycles and concurrency. *(✓ Active)*
+* `kirby-fitzpatrick-codebase-navigation-router`: Indexing and contract navigation before code generation. *(✓ Active)*
+* `kirby-fitzpatrick-semantic-gap-hunter`: Audit for unhandled error branches and config drift. *(✓ Active)*
+* `kirby-fitzpatrick-active-dialogue-dependency-evaluator`: Dialogic assessment of new package dependencies. *(✓ Active)*
+* `kirby-fitzpatrick-fleeting-bug-ingestion`: Zero-friction capture under `BUG-YYYYMMDD-HHMMSS`. *(✓ Active)*
+* `kirby-fitzpatrick-just-in-time-context-optimizer`: Pull narrow surgical snippets only when blocked. *(✓ Active)*
+* `kirby-fitzpatrick-anti-coaster-lens-filter`: Reject speculative abstractions; implement idiomatic paths. *(✓ Active)*
 
 ---
 
