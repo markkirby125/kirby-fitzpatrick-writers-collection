@@ -37,14 +37,14 @@ When tasked with generating documentation, pull request summaries, code explanat
 
 ---
 
-## Category 2: Paragraph Cohesion & Information Flow
+## Category 2: Paragraph Cohesion & Information Flow (✓ Active — Batch 2)
 *Target: Smooth hand-off of mental focus across sentences.*
-* `kirby-fitzpatrick-topic-comment-elaboration`: Familiar doorstep (Topic) → novel payload (Comment).
-* `kirby-fitzpatrick-linear-relay-linking`: Relay previous Comment into next Topic.
-* `kirby-fitzpatrick-cathedral-taxonomy`: Announce fixed taxonomy upfront before component details.
-* `kirby-fitzpatrick-theme-preview-roadmap`: Preview upcoming sequence at paragraph opening.
-* `kirby-fitzpatrick-two-skis-topic-alignment`: Align sentence subjects with global passage topic.
-* `kirby-fitzpatrick-gricean-bridge-connector`: Couple actor-verb cores with explicit logical connectors.
+* `kirby-fitzpatrick-topic-comment-elaboration`: Familiar doorstep (Topic) → novel payload (Comment). *(✓ Active)*
+* `kirby-fitzpatrick-linear-relay-linking`: Relay previous Comment into next Topic. *(✓ Active)*
+* `kirby-fitzpatrick-cathedral-taxonomy`: Announce fixed taxonomy upfront before component details. *(✓ Active)*
+* `kirby-fitzpatrick-theme-preview-roadmap`: Preview upcoming sequence at paragraph opening. *(✓ Active)*
+* `kirby-fitzpatrick-two-skis-topic-alignment`: Align sentence subjects with global passage topic. *(✓ Active)*
+* `kirby-fitzpatrick-gricean-bridge-connector`: Couple actor-verb cores with explicit logical connectors. *(✓ Active)*
 
 ---
 
