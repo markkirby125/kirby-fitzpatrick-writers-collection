@@ -48,14 +48,14 @@ When tasked with generating documentation, pull request summaries, code explanat
 
 ---
 
-## Category 3: Macro Architecture, Proposals & PR Structuring
+## Category 3: Macro Architecture, Proposals & PR Structuring (✓ Active — Batch 3)
 *Target: Fast stakeholder consensus and high-clarity technical proposals.*
-* `kirby-fitzpatrick-3part-proposal-engine`: Status Quo → Instability → Resolution.
-* `kirby-fitzpatrick-cold-reader-pr-auditor`: Audit from un-briefed reviewer stance.
-* `kirby-fitzpatrick-skim-test-outliner`: Fractal headings conveying complete thesis in 15 seconds.
-* `kirby-fitzpatrick-3persona-stakeholder-framer`: Calibrate across Uninformed, Indifferent, and Skeptical readers.
-* `kirby-fitzpatrick-heres-why-inversion`: State decision first, followed immediately by rationale.
-* `kirby-fitzpatrick-rhetorical-preflight-gate`: Map triggers and blast radius before code emission.
+* `kirby-fitzpatrick-3part-proposal-engine`: Status Quo → Instability → Resolution. *(✓ Active)*
+* `kirby-fitzpatrick-cold-reader-pr-auditor`: Audit from un-briefed reviewer stance. *(✓ Active)*
+* `kirby-fitzpatrick-skim-test-outliner`: Fractal headings conveying complete thesis in 15 seconds. *(✓ Active)*
+* `kirby-fitzpatrick-3persona-stakeholder-framer`: Calibrate across Uninformed, Indifferent, and Skeptical readers. *(✓ Active)*
+* `kirby-fitzpatrick-heres-why-inversion`: State decision first, followed immediately by rationale. *(✓ Active)*
+* `kirby-fitzpatrick-rhetorical-preflight-gate`: Map triggers and blast radius before code emission. *(✓ Active)*
 
 ---
 
