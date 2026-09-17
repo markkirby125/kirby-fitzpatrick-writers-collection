@@ -85,19 +85,19 @@ When tasked with generating documentation, pull request summaries, code explanat
 
 ---
 
-## Category 6: Cognitive Load, Tone & Reader Alignment
+## Category 6: Cognitive Load, Tone & Reader Alignment (✓ Active — Batch 6)
 *Target: Eliminating friction and aligning assistant output with human developer focus.*
-* `kirby-fitzpatrick-decoupled-reader-delivery`: Isolate trial-and-error reasoning from final user delivery.
-* `kirby-fitzpatrick-zero-meta-discourse`: Strip conversational signposting ("In this section, I will...").
-* `kirby-fitzpatrick-calibrated-technical-tone`: Strip unearned authority markers (`obviously`, `clearly`) and hedges.
-* `kirby-fitzpatrick-wide-to-close-cinematic-scaffolding`: Environment boundary first → component → mutating variable.
-* `kirby-fitzpatrick-movie-poster-context-auditor`: Anchor primary component in sentence-opening position.
-* `kirby-fitzpatrick-reverse-question-inversion`: Open response with user's focal entity in subject position.
-* `kirby-fitzpatrick-beneficiary-first-docs`: Frame docstrings around caller's gain or data object.
-* `kirby-fitzpatrick-fact-vs-judgment-classifier`: Distinguish objective facts from architectural judgments.
-* `kirby-fitzpatrick-delillo-block-isolation`: Extract target functions into an isolated scratchpad buffer.
-* `kirby-fitzpatrick-chomsky-vase-first-scaffolding`: Structural compile-time envelopes before linear domain logic.
-* `kirby-fitzpatrick-bipartite-agency-router`: Active pronouns in PR summaries; passive neutrality in runbooks.
+* `kirby-fitzpatrick-decoupled-reader-delivery`: Isolate trial-and-error reasoning from final user delivery. *(✓ Active)*
+* `kirby-fitzpatrick-zero-meta-discourse`: Strip conversational signposting ("In this section, I will..."). *(✓ Active)*
+* `kirby-fitzpatrick-calibrated-technical-tone`: Strip unearned authority markers (`obviously`, `clearly`) and hedges. *(✓ Active)*
+* `kirby-fitzpatrick-wide-to-close-cinematic-scaffolding`: Environment boundary first → component → mutating variable. *(✓ Active)*
+* `kirby-fitzpatrick-movie-poster-context-auditor`: Anchor primary component in sentence-opening position. *(✓ Active)*
+* `kirby-fitzpatrick-reverse-question-inversion`: Open response with user's focal entity in subject position. *(✓ Active)*
+* `kirby-fitzpatrick-beneficiary-first-docs`: Frame docstrings around caller's gain or data object. *(✓ Active)*
+* `kirby-fitzpatrick-fact-vs-judgment-classifier`: Distinguish objective facts from architectural judgments. *(✓ Active)*
+* `kirby-fitzpatrick-delillo-block-isolation`: Extract target functions into an isolated scratchpad buffer. *(✓ Active)*
+* `kirby-fitzpatrick-chomsky-vase-first-scaffolding`: Structural compile-time envelopes before linear domain logic. *(✓ Active)*
+* `kirby-fitzpatrick-bipartite-agency-router`: Active pronouns in PR summaries; passive neutrality in runbooks. *(✓ Active)*
 
 ---
 
