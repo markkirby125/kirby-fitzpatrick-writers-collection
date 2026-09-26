@@ -101,6 +101,12 @@ When tasked with generating documentation, pull request summaries, code explanat
 
 ---
 
+## Category 7: Cognitive Persona & Voice Modulation (✓ Active)
+*Target: Parametric psychological and rhetorical persona injection over cognitive writing rails.*
+* [**kirby-persona-infj**](../../kirby-persona-infj/SKILL.md): Injects an authentic INFJ (Ni-Fe-Ti-Se) cognitive persona with tunable Persona Arc intensities, gradients, and rhetorical vectors. *(✓ Active)*
+
+---
+
 ## Reference Pointers
 * Parent Monorepo Container: [kirby-skills-writers-collection](../../SKILL.md)
 * Source Video Lecture Registry: [fitzpatrick_source_manifest.md](../docs/fitzpatrick_source_manifest.md)
