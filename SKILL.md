@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-writers-collection
-description: "Master router and dispatcher for William Fitzpatrick's 48 cognitive writing skills." Use this when working on fitzpatrick writers collection.
+description: "Master router and dispatcher for William Fitzpatrick's 48 cognitive writing skills. Use this when working on fitzpatrick writers collection."
 category: helper
 triggers: [fitzpatrick-writing, write-clearly, technical-writing-rules, writing-science]
 risk: unverified
