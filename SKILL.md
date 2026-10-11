@@ -4,7 +4,7 @@ description: "Master router and dispatcher for William Fitzpatrick's 48 cognitiv
 category: helper
 triggers: [fitzpatrick-writing, write-clearly, technical-writing-rules, writing-science]
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
